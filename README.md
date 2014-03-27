@@ -21,7 +21,11 @@ Wow/Cool Factor:
 ----------------
 Concept of creating interactive hardware, so as to influence an objective data set. One such device is a low energy bluetooth "mood" ring, which will broadcast the wearer's mood (based on temperature and activity, or other metrics discovered to be associated with mood) to a mobile device and update the database with the mood, time and location.
 
+Event and #tag filtering: Limit your emotimap to a particular event or group, within a specified radius. For example, map CS50 students and watch the mood vary during the project fair. Or, see how the overall group of 'Cardinals Fans' feel at Busch Stadium on opening day versus those attending without the 'Cardinal Fans' tag.
+
 Ability to animate map with "mood" layer over time, giving visual representation of general mood changes of an area over time. Ability to add additional layers, such as radar, so as to see if there exists a relationship between mood and weather.
+
+I have registered the domain, emotimapper.com, so site can go live, and am incorporating Google analytics code so usage and demographics can be collected.
 
 
 License
