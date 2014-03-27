@@ -1,6 +1,6 @@
 emotimapper
 ===========
-www.emotimapper.com, mood mapping and forcasting project.
+www.emotimapper.com, mood mapping and forecasting project.
 
 Brief description of idea:
 --------------------------
