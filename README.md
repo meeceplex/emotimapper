@@ -1,8 +1,6 @@
 emotimapper
 ===========
-
 www.emotimapper.com, mood mapping and forcasting project.
----------------------------------------------------------
 
 Brief description of idea:
 --------------------------
@@ -13,7 +11,7 @@ Basic Project:
 A web app which collects subjective mood ratings from users, either registered or anonymous, then stores their input with their GPS location and time. The collected moods are then averaged, associated with a color, and displayed as a layer over a map. A heat map of moods.
 
 Added Features:
----------------﻿
+---------------
 Near Field Communication tags; Programmed NFC tags can be posted at various locations. Scanning with a compatible device will open the site and prompt user to input their mood, then update the database with the GPS location, time and mood.
 
 QR code for opening site and prompting user to input their mood, then update the database with GPS location, time and mood.
